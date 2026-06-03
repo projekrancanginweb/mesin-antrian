@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Antrean Digital",
+  "description": "Sistem antrean digital cerdas dua layanan (Kasir & CS) dengan Kios mandiri mandiri, integrasi suara panggilan otomatis (TTS Indonesia), Layar Display utama, Dashboard petugas, dan kelola panel admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
